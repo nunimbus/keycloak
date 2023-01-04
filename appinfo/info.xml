@@ -9,6 +9,9 @@
 	<licence>agpl</licence>
 	<author>Andrew Summers</author>
 	<namespace>Keycloak</namespace>
+	<types>
+		<prevent_group_restriction />
+	</types>
 	<category>tools</category>
 	<dependencies>
 		<nextcloud min-version="25" max-version="26" />
